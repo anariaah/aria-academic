@@ -4,10 +4,7 @@ role: Sociology Student
 bio: "My research interests include immigration, social inequalities, culture,
   and organizations. My research centers around socio-cultural forces in
   mechanism to social inequalties, particularly in the field of immigration. "
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social: []
 organizations:
   - name: "University of Chicago "
@@ -26,8 +23,8 @@ email: aria.huang98@gmail.com
 superuser: true
 highlight_name: true
 ---
-Aria Huang is a gradute student in Sociology. Her analytical research interests include international immigration, sociology of culture, social stratification and inequalities, and sociology of organizations, work, and occupations. Her theoretical research interests stem from institutioanlist analysis, assimilation theories, Bourdieu's field theory, and post-structuralism. Her methodolgical interests broadly include quantitative methods (e.g., multivariate regression, causal inference), computational methods (e.g., textual analysis, topic modeling, sentiment analysis), and qualitative methods like interviews and focus groups. 
+Aria Huang is a graduate student in Sociology. Her analytical research interests include international immigration, sociology of culture, social stratification and inequalities, and sociology of organizations, work, and occupations. Her theoretical research interests stem from institutionalist analysis, assimilation theories, Bourdieu's field theory, and post-structuralism. Her methodological interests broadly include quantitative methods (e.g., multivariate regression, causal inference), computational methods (e.g., textual analysis, topic modeling, sentiment analysis), and qualitative methods like interviews and focus groups. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
